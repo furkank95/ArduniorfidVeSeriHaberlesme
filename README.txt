@@ -1,0 +1,2 @@
+Bu projede iki arduino arası haberleşme yaptırarak akıllı kapı sistemi yaptım. İlk arduinoda kart okuma, motor döndürme işlemleri yapılıyor.
+Diğer arduinoda sadece lcd ekrana yazdırma işleri yapılıyor.
